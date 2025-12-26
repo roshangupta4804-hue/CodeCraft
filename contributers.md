@@ -9,6 +9,7 @@
 | Pradip Maity            | codeboy-pro       | Haldia Institute Of Technology |
 | Hardik Singh Rana       | hardik-rana02     | IIIT Allahabad                 |
 | Omdeep Masram           | omicoded19        | IIIT Allahabad                 |
+| Shambhu                 | Zarxeon           | IIIT Allahabad
 
 
 <!-- ADD ABOVE THIS -->
