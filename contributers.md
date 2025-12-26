@@ -31,5 +31,8 @@
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Khushi Shorey | khushishorey | IIIT Allahabad |
 | Ayush Saha | verifiedHuman18 | IIIT Allahabad |
+| Lavay Garg     | lavaygarg    | IIIT Allahabad |
+| Atharva Mehta          | Atharva-insane      | IIIT Allahabad                 |
+| Manisha katariya       | chanchukatariya5     | IIIT Allahabad                 |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
